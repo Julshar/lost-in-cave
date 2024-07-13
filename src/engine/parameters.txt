@@ -1,0 +1,6 @@
+Window_width =  "1920"
+Window_height = "1080"
+OpenGL_version_major = "4"
+OpenGL_version_minor = "4"
+Frames_per_second = "60"
+fullscreen = "1"

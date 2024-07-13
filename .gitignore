@@ -1,0 +1,5 @@
+# Ignore configuration directories from code editors
+.vscode
+
+# Ignore build directory
+build
